@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 h1 {
     color : blue;
     background-color : yellow;
@@ -31,13 +33,3 @@ p input {
    border-style : dotted;
 }
 
-.click {
-    width : 10%;
-    height : 5%;
-    background-color : yellow;
-    border-style : solid;
-}
-
-.click:hover {
-   background-color : blue
-}
