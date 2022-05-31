@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "포카리스웨트",
+        "category" : "이온음료" ,
+        "price" : "1.5$" ,
+        "image" : "pocari.jpg" ,
+        "description" : "하얀색 이온음료입니다."
+    } ,
+    {
+        "name" : "파워에이드",
+        "category" : "이온음료" ,
+        "price" : "1.6$" ,
+        "image" : "powerade.jpg" ,
+        "description" : "파란색 이온음료입니다."
+    } ,
+    {
+        "name" : "게토레이",
+        "category" : "이온음료" ,
+        "price" : "1.7$" ,
+        "image" : "getorade.jpeg" ,
+        "description" : "초록색 이온음료입니다."
+    } ,
+    {
+        "name" : "이프로",
+        "category" : "이온음료" ,
+        "price" : "1.8$" ,
+        "image" : "2pro.jpg" ,
+        "description" : "투명색 이온음료입니다."
+    } ,
+    {
+        "name" : "콜라",
+        "category" : "탄산음료" ,
+        "price" : "1.7$" ,
+        "image" : "coke.jpg" ,
+        "description" : "검은색 탄산음료입니다."
+    } ,
+    {
+        "name" : "사이다",
+        "category" : "탄산음료" ,
+        "price" : "1.3$" ,
+        "image" : "cider.jpg" ,
+        "description" : "투명색 탄산음료입니다."
+    } ,
+    {
+        "name" : "환타 오렌지",
+        "category" : "탄산음료" ,
+        "price" : "1.5$" ,
+        "image" : "fantaOrange.jpeg" ,
+        "description" : "주황색 탄산음료입니다."
+    } ,
+    {
+        "name" : "환타 포도",
+        "category" : "탄산음료" ,
+        "price" : "1.5$" ,
+        "image" : "fantaGrape.jpeg" ,
+        "description" : "보라색 이온음료입니다."
+    } ,
+    {
+        "name" : "환타 파인애플",
+        "category" : "탄산음료" ,
+        "price" : "1.5$" ,
+        "image" : "fantaPineapple.jpeg" ,
+        "description" : "노란색 이온음료입니다."
+    } ,
+    {
+        "name" : "마운틴듀",
+        "category" : "탄산음료" ,
+        "price" : "1.6$" ,
+        "image" : "MountainDew.jpeg" ,
+        "description" : "초록색 이온음료입니다."
+    }
+]
